@@ -1,0 +1,216 @@
+body {
+    color: #212529 !important;
+    background-color: rgba(255, 182, 193, 0.131);
+}
+
+/* Header Start */
+.navbar-brand {
+    font-size: 28px;
+    color: white !important;
+    font-weight: 700;
+}
+
+.nav-container-fluid a {
+    color: white !important;
+}
+
+.nav-container-fluid {
+    height: 100vh !important;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    box-sizing: border-box !important;
+    width: 100%;
+    position: relative;
+    background-image: url("https://preview.colorlib.com/theme/nova/images/hero_1.jpg") !important;
+}
+
+.d-grid {
+    position: absolute;
+}
+
+.col-9 h1 {
+    margin-top: 15%;
+    justify-content: center;
+    text-align: center;
+    /* border: 2px solid; */
+    text-align: center;
+    margin-right: auto !important;
+    margin-left: auto !important;
+    text-align: center;
+    font-size: 3rem !important;
+    text-transform: uppercase;
+    font-weight: 700;
+    opacity: 1 !important;
+    color: #ffffff !important;
+}
+
+.nav-container-fluid::before {
+    background-color: rgba(0, 0, 0, 0.4) !important;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    content: "";
+}
+
+.video-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.material-symbols-outlined {
+    font-size: 100px;
+    /* color: white; */
+    font-weight: 100 !important;
+}
+
+
+/* Section 1 */
+
+.section-oneContainer {
+    width: 100%;
+    /* height: 80vh; */
+    position: relative;
+    margin-bottom: 5%;
+}
+
+.col-lg-5::before {
+    content: "";
+    background-repeat: no-repeat;
+    background-image: url(https://preview.colorlib.com/theme/nova/images/circle.png.webp);
+    width: 100%;
+    height: 389px;
+    left: -200px;
+    top: 17%;
+    position: absolute;
+    z-index: -1;
+    content: "";
+}
+
+.Encourage h2 {
+    color: #ec0101;
+    font-weight: 700;
+    text-align: start;
+}
+
+.Encourage p {
+    text-align: start;
+}
+
+.image-fancyBorder {
+    max-width: 100%;
+    border-top-left-radius: 200px;
+    border-bottom-right-radius: 200px;
+    box-sizing: border-box !important;
+    border-radius: 115px 0px 113px 0px;
+    -webkit-border-radius: 115px 0px 113px 0px;
+    -moz-border-radius: 115px 0px 113px 0px;
+    overflow: hidden;
+}
+
+li::marker {
+    color: red;
+}
+
+.rounded-pill {
+    background-color: red;
+}
+
+/* Section 2 Start */
+
+
+.ourTeacher {
+    color: #ec0101;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.cardData {
+    /* background-color: #F8EFD4; */
+    text-align: center;
+    padding: 40px 40px 80px 40px;
+    border-radius: 70px;
+    border-bottom-right-radius: 200px;
+    flex-wrap: wrap;
+}
+
+.cardData img {
+    margin-bottom: 30px;
+    width: 100px;
+    border-radius: 50%;
+    margin-top: -100px;
+    position: relative;
+    left: 20%;
+    -webkit-box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.2);
+}
+
+
+
+/* Section 4 */
+
+/* .sectionfour {
+    margin-bottom: 12% !important;
+} */
+
+/* Swiper Start  */
+#app {
+    height: 100%;
+}
+
+.swiper {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    /* background: white; */
+    background: rgba(231, 228, 229, 0.04);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.teacher {
+    border-bottom-right-radius: 200px !important;
+    padding: 40px 40px 80px 40px !important;
+    border-radius: 70px !important;
+    text-align: center !important;
+    /* background-color: #F8EFD4 !important; */
+    padding: 40px 40px 80px 40px !important;
+    border-radius: 70px !important;
+    border-bottom-right-radius: 200px !important;
+    flex-wrap: wrap;
+}
+
+.teacher img {
+    margin-bottom: 30px;
+    width: 100px;
+    border-radius: 50%;
+    margin-top: -100px;
+    position: relative;
+    -webkit-box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.2);
+}
+
+/* Section 5 */
+.section5 {
+    margin-top: 10% !important;
+}
+
+.text-secondary {
+    color: #ccc !important;
+}

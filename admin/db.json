@@ -1,0 +1,87 @@
+{
+  "services": [
+    {
+      "id": "aa30",
+      "className": "fa-medal",
+      "title": "Won Medal",
+      "description": "Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."
+    },
+    {
+      "id": "568e",
+      "className": "fa-user-tie",
+      "title": "Wear Kimono",
+      "description": "Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."
+    },
+    {
+      "id": "9e43",
+      "className": "fa-user-ninja",
+      "title": "Martial Arts",
+      "description": "Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."
+    }
+  ],
+  "teachers": [
+    {
+      "id": "c556",
+      "TeacherName": "Maria Jones",
+      "TeacherProfilePic": "https://preview.colorlib.com/theme/nova/images/person_1.jpg.webp",
+      "Department": "Instructor ",
+      "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.",
+      "bgColor": "F8EFD4"
+    },
+    {
+      "id": "909b",
+      "TeacherName": "James Campbel",
+      "TeacherProfilePic": "https://preview.colorlib.com/theme/nova/images/person_2.jpg.webp",
+      "Department": "Instructor ",
+      "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.",
+      "bgColor": "e6e7f6"
+    },
+    {
+      "id": "1fb2",
+      "TeacherName": "Rob Smith",
+      "TeacherProfilePic": "https://preview.colorlib.com/theme/nova/images/person_3.jpg.webp",
+      "Department": "Instructor ",
+      "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.",
+      "bgColor": "ddf8f6"
+    },
+    {
+      "id": "d4fb",
+      "TeacherName": "Kaye Hamilton",
+      "TeacherProfilePic": "https://preview.colorlib.com/theme/nova/images/person_4.jpg.webp",
+      "Department": "Instructor ",
+      "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.\n\n",
+      "bgColor": "f9e4e4"
+    },
+    {
+      "id": "10d4",
+      "TeacherName": "testing one third",
+      "TeacherProfilePic": "testing one second third",
+      "Department": "testing one second third",
+      "description": "testing one second thirtd",
+      "bgColor": "testing one second third"
+    }
+  ],
+  "blogPosts": [
+    {
+      "id": "0998",
+      "BlogTitle": "How Awesome Stay connected",
+      "Blogdescription": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      "Blogdate": "2019-07-17",
+      "Image": "https://preview.colorlib.com/theme/nova/images/post_3.jpg.webp"
+    },
+    {
+      "id": "25da",
+      "BlogTitle": "We Need Unlimitted People",
+      "Blogdescription": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      "Blogdate": "2019-07-17",
+      "Image": "https://preview.colorlib.com/theme/nova/images/post_2.jpg"
+    },
+    {
+      "id": "2a4c",
+      "BlogTitle": "Important of getting a notifications",
+      "Blogdescription": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      "Blogdate": "2019-07-17",
+      "Image": "https://preview.colorlib.com/theme/nova/images/post_4.jpg"
+    }
+  ]
+}
