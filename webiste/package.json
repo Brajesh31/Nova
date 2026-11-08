@@ -10,19 +10,19 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "axios": "^1.7.2",
+    "axios": "^1.20.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "swiper": "^11.1.4"
+    "swiper": "^14.4.0"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
-    "@vitejs/plugin-react": "^4.3.1",
+    "@vitejs/plugin-react": "^4.7.0",
     "eslint": "^8.57.0",
     "eslint-plugin-react": "^7.34.2",
     "eslint-plugin-react-hooks": "^4.6.2",
     "eslint-plugin-react-refresh": "^0.4.7",
-    "vite": "^5.3.1"
+    "vite": "^8.3.6"
   }
 }
